@@ -1,0 +1,1 @@
+C:\Users\19215\Desktop\23种设计模式\状态链模式\状态链模式\状态链模式\bin\Debug\状态链模式.exe.config

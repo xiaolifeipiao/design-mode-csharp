@@ -1,0 +1,5 @@
+C:\Users\19215\Desktop\原型模式\2\原型模式实现1\原型模式实现1\bin\Debug\原型模式实现1.exe.config
+C:\Users\19215\Desktop\原型模式\2\原型模式实现1\原型模式实现1\bin\Debug\原型模式实现1.exe
+C:\Users\19215\Desktop\原型模式\2\原型模式实现1\原型模式实现1\bin\Debug\原型模式实现1.pdb
+C:\Users\19215\Desktop\原型模式\2\原型模式实现1\原型模式实现1\obj\Debug\原型模式实现1.exe
+C:\Users\19215\Desktop\原型模式\2\原型模式实现1\原型模式实现1\obj\Debug\原型模式实现1.pdb

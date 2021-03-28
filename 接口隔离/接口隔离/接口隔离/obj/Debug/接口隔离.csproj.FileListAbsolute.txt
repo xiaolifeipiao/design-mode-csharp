@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\接口隔离\接口隔离\接口隔离\bin\Debug\接口隔离.exe.config
+C:\Users\19215\Desktop\接口隔离\接口隔离\接口隔离\bin\Debug\接口隔离.exe
+C:\Users\19215\Desktop\接口隔离\接口隔离\接口隔离\bin\Debug\接口隔离.pdb
+C:\Users\19215\Desktop\接口隔离\接口隔离\接口隔离\obj\Debug\接口隔离.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\接口隔离\接口隔离\接口隔离\obj\Debug\接口隔离.exe
+C:\Users\19215\Desktop\接口隔离\接口隔离\接口隔离\obj\Debug\接口隔离.pdb

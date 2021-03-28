@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\原型模式\3\原型扩展\原型扩展\bin\Debug\原型扩展.exe.config
+C:\Users\19215\Desktop\原型模式\3\原型扩展\原型扩展\obj\Debug\原型扩展.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\原型模式\3\原型扩展\原型扩展\bin\Debug\原型扩展.exe
+C:\Users\19215\Desktop\原型模式\3\原型扩展\原型扩展\bin\Debug\原型扩展.pdb
+C:\Users\19215\Desktop\原型模式\3\原型扩展\原型扩展\obj\Debug\原型扩展.exe
+C:\Users\19215\Desktop\原型模式\3\原型扩展\原型扩展\obj\Debug\原型扩展.pdb

@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\迪米特法则\迪米特法则\迪米特法则\bin\Debug\迪米特法则.exe.config
+C:\Users\19215\Desktop\迪米特法则\迪米特法则\迪米特法则\obj\Debug\迪米特法则.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\迪米特法则\迪米特法则\迪米特法则\bin\Debug\迪米特法则.exe
+C:\Users\19215\Desktop\迪米特法则\迪米特法则\迪米特法则\bin\Debug\迪米特法则.pdb
+C:\Users\19215\Desktop\迪米特法则\迪米特法则\迪米特法则\obj\Debug\迪米特法则.exe
+C:\Users\19215\Desktop\迪米特法则\迪米特法则\迪米特法则\obj\Debug\迪米特法则.pdb

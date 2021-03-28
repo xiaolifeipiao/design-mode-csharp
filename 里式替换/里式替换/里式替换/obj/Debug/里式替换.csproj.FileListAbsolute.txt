@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\test\里式替换\里式替换\bin\Debug\里式替换.exe.config
+C:\Users\19215\Desktop\test\里式替换\里式替换\obj\Debug\里式替换.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\test\里式替换\里式替换\bin\Debug\里式替换.exe
+C:\Users\19215\Desktop\test\里式替换\里式替换\bin\Debug\里式替换.pdb
+C:\Users\19215\Desktop\test\里式替换\里式替换\obj\Debug\里式替换.exe
+C:\Users\19215\Desktop\test\里式替换\里式替换\obj\Debug\里式替换.pdb

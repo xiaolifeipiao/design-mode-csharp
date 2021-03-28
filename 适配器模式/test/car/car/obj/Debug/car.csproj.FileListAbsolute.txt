@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\适配器模式\test\car\car\bin\Debug\car.exe.config
+C:\Users\19215\Desktop\适配器模式\test\car\car\bin\Debug\car.exe
+C:\Users\19215\Desktop\适配器模式\test\car\car\bin\Debug\car.pdb
+C:\Users\19215\Desktop\适配器模式\test\car\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\适配器模式\test\car\car\obj\Debug\car.exe
+C:\Users\19215\Desktop\适配器模式\test\car\car\obj\Debug\car.pdb

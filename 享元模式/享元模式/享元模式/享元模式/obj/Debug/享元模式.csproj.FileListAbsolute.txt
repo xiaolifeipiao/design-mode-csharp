@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\享元模式\享元模式\享元模式\享元模式\bin\Debug\享元模式.exe.config
+C:\Users\19215\Desktop\享元模式\享元模式\享元模式\享元模式\bin\Debug\享元模式.exe
+C:\Users\19215\Desktop\享元模式\享元模式\享元模式\享元模式\bin\Debug\享元模式.pdb
+C:\Users\19215\Desktop\享元模式\享元模式\享元模式\享元模式\obj\Debug\享元模式.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\享元模式\享元模式\享元模式\享元模式\obj\Debug\享元模式.exe
+C:\Users\19215\Desktop\享元模式\享元模式\享元模式\享元模式\obj\Debug\享元模式.pdb

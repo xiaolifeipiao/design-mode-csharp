@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\23种设计模式\解释器模式\解释器模式\解释器模式\bin\Debug\解释器模式.exe.config
+C:\Users\19215\Desktop\23种设计模式\解释器模式\解释器模式\解释器模式\obj\Debug\解释器模式.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\23种设计模式\解释器模式\解释器模式\解释器模式\bin\Debug\解释器模式.exe
+C:\Users\19215\Desktop\23种设计模式\解释器模式\解释器模式\解释器模式\bin\Debug\解释器模式.pdb
+C:\Users\19215\Desktop\23种设计模式\解释器模式\解释器模式\解释器模式\obj\Debug\解释器模式.exe
+C:\Users\19215\Desktop\23种设计模式\解释器模式\解释器模式\解释器模式\obj\Debug\解释器模式.pdb

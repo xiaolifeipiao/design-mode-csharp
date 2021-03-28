@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\组合模式\组合模式test\test\test\bin\Debug\test.exe.config
+C:\Users\19215\Desktop\组合模式\组合模式test\test\test\bin\Debug\test.exe
+C:\Users\19215\Desktop\组合模式\组合模式test\test\test\bin\Debug\test.pdb
+C:\Users\19215\Desktop\组合模式\组合模式test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\组合模式\组合模式test\test\test\obj\Debug\test.exe
+C:\Users\19215\Desktop\组合模式\组合模式test\test\test\obj\Debug\test.pdb

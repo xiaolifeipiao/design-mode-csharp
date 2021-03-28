@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\抽象工厂模式\test\abstractProduct\abstractProduct\bin\Debug\abstractProduct.exe.config
+C:\Users\19215\Desktop\抽象工厂模式\test\abstractProduct\abstractProduct\obj\Debug\abstractProduct.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\抽象工厂模式\test\abstractProduct\abstractProduct\bin\Debug\abstractProduct.exe
+C:\Users\19215\Desktop\抽象工厂模式\test\abstractProduct\abstractProduct\bin\Debug\abstractProduct.pdb
+C:\Users\19215\Desktop\抽象工厂模式\test\abstractProduct\abstractProduct\obj\Debug\abstractProduct.exe
+C:\Users\19215\Desktop\抽象工厂模式\test\abstractProduct\abstractProduct\obj\Debug\abstractProduct.pdb

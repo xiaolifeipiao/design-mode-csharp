@@ -1,0 +1,1 @@
+C:\Users\19215\Desktop\23种设计模式\观察者模式\test\上课铃\上课铃\bin\Debug\上课铃.exe.config

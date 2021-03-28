@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\代理模式\test\代理模式\代理模式\bin\Debug\代理模式.exe.config
+C:\Users\19215\Desktop\代理模式\test\代理模式\代理模式\bin\Debug\代理模式.exe
+C:\Users\19215\Desktop\代理模式\test\代理模式\代理模式\bin\Debug\代理模式.pdb
+C:\Users\19215\Desktop\代理模式\test\代理模式\代理模式\obj\Debug\代理模式.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\代理模式\test\代理模式\代理模式\obj\Debug\代理模式.exe
+C:\Users\19215\Desktop\代理模式\test\代理模式\代理模式\obj\Debug\代理模式.pdb

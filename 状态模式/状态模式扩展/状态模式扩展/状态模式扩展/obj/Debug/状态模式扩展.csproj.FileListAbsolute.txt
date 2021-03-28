@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\23种设计模式\状态模式\状态模式扩展\状态模式扩展\状态模式扩展\bin\Debug\状态模式扩展.exe.config
+C:\Users\19215\Desktop\23种设计模式\状态模式\状态模式扩展\状态模式扩展\状态模式扩展\obj\Debug\状态模式扩展.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\23种设计模式\状态模式\状态模式扩展\状态模式扩展\状态模式扩展\bin\Debug\状态模式扩展.exe
+C:\Users\19215\Desktop\23种设计模式\状态模式\状态模式扩展\状态模式扩展\状态模式扩展\bin\Debug\状态模式扩展.pdb
+C:\Users\19215\Desktop\23种设计模式\状态模式\状态模式扩展\状态模式扩展\状态模式扩展\obj\Debug\状态模式扩展.exe
+C:\Users\19215\Desktop\23种设计模式\状态模式\状态模式扩展\状态模式扩展\状态模式扩展\obj\Debug\状态模式扩展.pdb

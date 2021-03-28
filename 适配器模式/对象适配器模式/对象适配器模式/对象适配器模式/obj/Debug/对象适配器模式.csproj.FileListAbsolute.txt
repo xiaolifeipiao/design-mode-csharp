@@ -1,0 +1,5 @@
+C:\Users\19215\Desktop\适配器模式\对象适配器模式\对象适配器模式\对象适配器模式\bin\Debug\对象适配器模式.exe.config
+C:\Users\19215\Desktop\适配器模式\对象适配器模式\对象适配器模式\对象适配器模式\bin\Debug\对象适配器模式.exe
+C:\Users\19215\Desktop\适配器模式\对象适配器模式\对象适配器模式\对象适配器模式\bin\Debug\对象适配器模式.pdb
+C:\Users\19215\Desktop\适配器模式\对象适配器模式\对象适配器模式\对象适配器模式\obj\Debug\对象适配器模式.exe
+C:\Users\19215\Desktop\适配器模式\对象适配器模式\对象适配器模式\对象适配器模式\obj\Debug\对象适配器模式.pdb

@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\命令模式\命令模式\命令模式\命令模式\bin\Debug\命令模式.exe.config
+C:\Users\19215\Desktop\命令模式\命令模式\命令模式\命令模式\obj\Debug\命令模式.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\命令模式\命令模式\命令模式\命令模式\bin\Debug\命令模式.exe
+C:\Users\19215\Desktop\命令模式\命令模式\命令模式\命令模式\bin\Debug\命令模式.pdb
+C:\Users\19215\Desktop\命令模式\命令模式\命令模式\命令模式\obj\Debug\命令模式.exe
+C:\Users\19215\Desktop\命令模式\命令模式\命令模式\命令模式\obj\Debug\命令模式.pdb

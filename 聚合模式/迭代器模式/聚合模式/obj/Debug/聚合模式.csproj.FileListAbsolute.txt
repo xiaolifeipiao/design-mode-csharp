@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\23种设计模式\聚合模式\聚合模式\聚合模式\bin\Debug\聚合模式.exe.config
+C:\Users\19215\Desktop\23种设计模式\聚合模式\聚合模式\聚合模式\obj\Debug\聚合模式.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\23种设计模式\聚合模式\聚合模式\聚合模式\bin\Debug\聚合模式.exe
+C:\Users\19215\Desktop\23种设计模式\聚合模式\聚合模式\聚合模式\bin\Debug\聚合模式.pdb
+C:\Users\19215\Desktop\23种设计模式\聚合模式\聚合模式\聚合模式\obj\Debug\聚合模式.exe
+C:\Users\19215\Desktop\23种设计模式\聚合模式\聚合模式\聚合模式\obj\Debug\聚合模式.pdb

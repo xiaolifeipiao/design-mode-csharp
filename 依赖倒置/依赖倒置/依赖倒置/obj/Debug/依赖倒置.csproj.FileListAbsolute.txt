@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\依赖倒置\依赖倒置\依赖倒置\bin\Debug\依赖倒置.exe.config
+C:\Users\19215\Desktop\依赖倒置\依赖倒置\依赖倒置\obj\Debug\依赖倒置.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\依赖倒置\依赖倒置\依赖倒置\bin\Debug\依赖倒置.exe
+C:\Users\19215\Desktop\依赖倒置\依赖倒置\依赖倒置\bin\Debug\依赖倒置.pdb
+C:\Users\19215\Desktop\依赖倒置\依赖倒置\依赖倒置\obj\Debug\依赖倒置.exe
+C:\Users\19215\Desktop\依赖倒置\依赖倒置\依赖倒置\obj\Debug\依赖倒置.pdb

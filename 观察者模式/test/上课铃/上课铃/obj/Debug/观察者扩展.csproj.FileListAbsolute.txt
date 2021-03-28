@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\23种设计模式\观察者模式\test\上课铃\上课铃\bin\Debug\上课铃.exe.config
+C:\Users\19215\Desktop\23种设计模式\观察者模式\test\上课铃\上课铃\bin\Debug\上课铃.exe
+C:\Users\19215\Desktop\23种设计模式\观察者模式\test\上课铃\上课铃\bin\Debug\上课铃.pdb
+C:\Users\19215\Desktop\23种设计模式\观察者模式\test\上课铃\上课铃\obj\Debug\观察者扩展.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\23种设计模式\观察者模式\test\上课铃\上课铃\obj\Debug\上课铃.exe
+C:\Users\19215\Desktop\23种设计模式\观察者模式\test\上课铃\上课铃\obj\Debug\上课铃.pdb

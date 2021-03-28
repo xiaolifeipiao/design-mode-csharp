@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\原型模式\1\proteTypeTest1\proteTypeTest1\bin\Debug\proteTypeTest1.exe.config
+C:\Users\19215\Desktop\原型模式\1\proteTypeTest1\proteTypeTest1\obj\Debug\proteTypeTest1.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\原型模式\1\proteTypeTest1\proteTypeTest1\bin\Debug\proteTypeTest1.exe
+C:\Users\19215\Desktop\原型模式\1\proteTypeTest1\proteTypeTest1\bin\Debug\proteTypeTest1.pdb
+C:\Users\19215\Desktop\原型模式\1\proteTypeTest1\proteTypeTest1\obj\Debug\proteTypeTest1.exe
+C:\Users\19215\Desktop\原型模式\1\proteTypeTest1\proteTypeTest1\obj\Debug\proteTypeTest1.pdb

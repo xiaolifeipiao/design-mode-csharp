@@ -1,0 +1,6 @@
+C:\Users\19215\Desktop\适配器模式\test1\扩展\扩展\bin\Debug\扩展.exe.config
+C:\Users\19215\Desktop\适配器模式\test1\扩展\扩展\bin\Debug\扩展.exe
+C:\Users\19215\Desktop\适配器模式\test1\扩展\扩展\bin\Debug\扩展.pdb
+C:\Users\19215\Desktop\适配器模式\test1\扩展\扩展\obj\Debug\扩展.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\适配器模式\test1\扩展\扩展\obj\Debug\扩展.exe
+C:\Users\19215\Desktop\适配器模式\test1\扩展\扩展\obj\Debug\扩展.pdb
